@@ -1,0 +1,34 @@
+//Sprint 2 Backlog.  
+July 10 to June 15
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) (Redirection)As a I user, I should have the ability to redirect (using 1 or 2 arrows) output in an outfile.
+b) (Grep)As a user, I should be able to search for a regex string for any given file or directory.
+c) (Ls)As a user, I should be able to choose the list all subdirectories using [-R] option.
+d) (Curl)As a user, I should be able to retrieve a file at that URL and add it to the current working directory.
+
+
+Specific tasks to be accomplished:
+a-1. (Redirection) Fix Redirection class that recognizes 1 or 2 arrows
+a-2. (JShell) Double check if JShell works with redirection as expected
+a-3. (JShell) Account for [-R] inputs on commands
+b-1. (Grep) Write the base code for Grep class
+c-1. (Ls) Write the additional [-R] option for LS
+d-1. (Curl) Finish and test the curl implementation
+d-2. (Mkdir) Fix Mkdir to use for Curl
+
+
+These tasks are assigned as follows:
+
+User: Jerry
+Tasks: a-1, b-1
+
+User: Manan
+Tasks: a-1, a-2, a-3, b-1
+
+User: Nick
+Tasks: b-1, c-1
+
+User: Tirth
+Tasks: b-1, d-1, d-2

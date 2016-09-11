@@ -1,0 +1,904 @@
++++ASSIGNMENT2 TEAM MEMBER CONTRIBUTION+++
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT1+++
+A    Assignment2/sprints
+A    Assignment2/sprints/readMeSprints.txt
+A    Assignment2/sprints/Sprint1Backlog.txt
+A    Assignment2/sprints/Sprint2Backlog.txt
+A    Assignment2/sprints/Sprint3Backlog.txt
+A    Assignment2/productBacklog
+A    Assignment2/productBacklog/productBackLogFor2A.txt
+A    Assignment2/productBacklog/readMeProductBacklog.txt
+A    Assignment2/crcCards
+A    Assignment2/crcCards/man.txt
+A    Assignment2/crcCards/echo.txt
+A    Assignment2/crcCards/ls.txt
+A    Assignment2/crcCards/Honor_Code.txt
+A    Assignment2/crcCards/file.txt
+A    Assignment2/crcCards/JShell.txt
+A    Assignment2/crcCards/pushd.txt
+A    Assignment2/crcCards/validator.txt
+A    Assignment2/crcCards/cd.txt
+A    Assignment2/crcCards/pwd.txt
+A    Assignment2/crcCards/commandSuper.txt
+A    Assignment2/crcCards/popd.txt
+A    Assignment2/crcCards/directory.txt
+A    Assignment2/crcCards/stack.txt
+A    Assignment2/crcCards/mkdir.txt
+A    Assignment2/crcCards/cat.txt
+A    Assignment2/crcCards/readMeForCrcCards.txt
+A    Assignment2/crcCards/exit.txt
+A    Assignment2/readMeAssignment2A.txt
+A    Assignment2/src
+A    Assignment2/src/fileSystem
+A    Assignment2/src/fileSystem/MyStack.java
+A    Assignment2/src/fileSystem/fileSys.java
+A    Assignment2/src/fileSystem/ls.java
+A    Assignment2/src/fileSystem/mockDirectory.java
+A    Assignment2/src/fileSystem/File.java
+A    Assignment2/src/fileSystem/Directory.java
+A    Assignment2/src/fileSystem/fileSystem.java
+A    Assignment2/src/driver
+A    Assignment2/src/driver/JShell.java
+A    Assignment2/src/driver/Validator.java
+A    Assignment2/src/driver/ValidatorTest.java
+A    Assignment2/src/test
+A    Assignment2/src/test/fileSystemTest.java
+A    Assignment2/src/test/testcd.java
+A    Assignment2/src/test/catTest.java
+A    Assignment2/src/test/testcat.java
+A    Assignment2/src/test/testpwd.java
+A    Assignment2/src/test/testEcho.java
+A    Assignment2/src/commands
+A    Assignment2/src/commands/exit.java
+A    Assignment2/src/commands/pwd.java
+A    Assignment2/src/commands/man.java
+A    Assignment2/src/commands/commandSuper.java
+A    Assignment2/src/commands/echo.java
+A    Assignment2/src/commands/ls.java
+A    Assignment2/src/commands/history.java
+A    Assignment2/src/commands/popd.java
+A    Assignment2/src/commands/pushd.java
+A    Assignment2/src/commands/cd.java
+A    Assignment2/src/commands/mkdir.java
+A    Assignment2/src/commands/cat.java
+A    Assignment2/dailyScrumMeetings
+A    Assignment2/dailyScrumMeetings/chengj38Sprint1June12.txt
+A    Assignment2/dailyScrumMeetings/chengj38Sprint3June20.txt
+A    Assignment2/dailyScrumMeetings/shahtirtSprint1June8.txt
+A    Assignment2/dailyScrumMeetings/gongyi2Sprint1June12.txt
+A    Assignment2/dailyScrumMeetings/gongyi2Sprint3June20.txt
+A    Assignment2/dailyScrumMeetings/readMeDailyScrumMeetings.txt
+A    Assignment2/dailyScrumMeetings/chengj38Sprint3June26.txt
+A    Assignment2/dailyScrumMeetings/gongyi2Sprint2June14.txt
+A    Assignment2/dailyScrumMeetings/patelm55Sprint1June8.txt
+A    Assignment2/dailyScrumMeetings/gongyi2Sprint3June23.txt
+A    Assignment2/dailyScrumMeetings/gongyi2Sprint2June17.txt
+A    Assignment2/dailyScrumMeetings/patelm55Sprint22June17.txt
+A    Assignment2/dailyScrumMeetings/gongyi2Sprint3June26.txt
+A    Assignment2/dailyScrumMeetings/shahtirtSprint1June12.txt
+A    Assignment2/dailyScrumMeetings/shahtirtSprint3June20.txt
+A    Assignment2/dailyScrumMeetings/shahtirtSprint1June14.txt
+A    Assignment2/dailyScrumMeetings/shahtirtSprint4June23.txt
+A    Assignment2/dailyScrumMeetings/patelm55Sprint1June11.txt
+A    Assignment2/dailyScrumMeetings/shahtirtSprint2June17.txt
+A    Assignment2/dailyScrumMeetings/shahtirtSprint3June26.txt
+A    Assignment2/dailyScrumMeetings/patelm55Sprint3June20.txt
+A    Assignment2/dailyScrumMeetings/chengj38Sprint1June8.txt
+A    Assignment2/dailyScrumMeetings/patelm55Sprint2June14.txt
+A    Assignment2/dailyScrumMeetings/patelm55Sprint1June26.txt
+A    Assignment2/dailyScrumMeetings/patelm55Sprint4June23.txt
+A    Assignment2/dailyScrumMeetings/gongyi2Sprint1June8.txt
+Checked out revision 185.
+
+
+
+PART 2) +++SVN COMMIT LOGS ARE+++
+Marks Deductions here (-.5 max): 
+------------------------------------------------------------------------
+r185 | gongyi2@UTORONTO.CA | 2016-06-27 23:58:43 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Fixed bugs, added info at top
+------------------------------------------------------------------------
+r184 | shahtirt@UTORONTO.CA | 2016-06-27 23:56:15 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Added man page in mkdir class
+------------------------------------------------------------------------
+r183 | gongyi2@UTORONTO.CA | 2016-06-27 23:55:19 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Fixed echo and cat
+------------------------------------------------------------------------
+r182 | patelm55@UTORONTO.CA | 2016-06-27 23:52:58 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'added comments and fixed spacing'
+------------------------------------------------------------------------
+r181 | patelm55@UTORONTO.CA | 2016-06-27 23:47:41 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'added a javadoc'
+------------------------------------------------------------------------
+r180 | gongyi2@UTORONTO.CA | 2016-06-27 23:47:15 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Fixed mkdir in JShell
+------------------------------------------------------------------------
+r179 | patelm55@UTORONTO.CA | 2016-06-27 23:41:27 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'adding a javadoc'
+------------------------------------------------------------------------
+r178 | patelm55@UTORONTO.CA | 2016-06-27 23:40:19 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'adding javadocs for pushd and popd'
+------------------------------------------------------------------------
+r177 | shahtirt@UTORONTO.CA | 2016-06-27 23:40:14 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Wrote documentation for validator class
+------------------------------------------------------------------------
+r176 | chengj38@UTORONTO.CA | 2016-06-27 23:40:08 -0400 (Mon, 27 Jun 2016) | 1 line
+
+takes care of nullpointerexception for echo
+------------------------------------------------------------------------
+r175 | patelm55@UTORONTO.CA | 2016-06-27 23:38:35 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'adding javadoc for man'
+------------------------------------------------------------------------
+r174 | patelm55@UTORONTO.CA | 2016-06-27 23:36:52 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'added honor code'
+------------------------------------------------------------------------
+r173 | shahtirt@UTORONTO.CA | 2016-06-27 23:29:46 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Added honour code
+------------------------------------------------------------------------
+r172 | chengj38@UTORONTO.CA | 2016-06-27 23:27:03 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added jerry's honor code to jshell
+------------------------------------------------------------------------
+r171 | patelm55@UTORONTO.CA | 2016-06-27 23:23:55 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'fixed manual for popd'
+------------------------------------------------------------------------
+r170 | patelm55@UTORONTO.CA | 2016-06-27 23:21:23 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'added Ls manual'
+------------------------------------------------------------------------
+r169 | gongyi2@UTORONTO.CA | 2016-06-27 23:20:04 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Updates Jshell to consolidate changes from Manan and Jerry
+------------------------------------------------------------------------
+r168 | gongyi2@UTORONTO.CA | 2016-06-27 23:05:57 -0400 (Mon, 27 Jun 2016) | 1 line
+
+rewrote mkdir
+------------------------------------------------------------------------
+r167 | chengj38@UTORONTO.CA | 2016-06-27 23:04:17 -0400 (Mon, 27 Jun 2016) | 3 lines
+
+removed some print statments in echo.
+
+fixed the inability to find arguments in jShell
+------------------------------------------------------------------------
+r166 | patelm55@UTORONTO.CA | 2016-06-27 22:45:39 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'added exception for bug and comments'
+------------------------------------------------------------------------
+r165 | patelm55@UTORONTO.CA | 2016-06-27 22:39:39 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'fixed the history[index] error'
+------------------------------------------------------------------------
+r164 | gongyi2@UTORONTO.CA | 2016-06-27 22:31:02 -0400 (Mon, 27 Jun 2016) | 1 line
+
+for testing
+------------------------------------------------------------------------
+r163 | gongyi2@UTORONTO.CA | 2016-06-27 22:14:29 -0400 (Mon, 27 Jun 2016) | 1 line
+
+updates ls class
+------------------------------------------------------------------------
+r162 | shahtirt@UTORONTO.CA | 2016-06-27 22:10:26 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Updated mkdir class
+------------------------------------------------------------------------
+r161 | shahtirt@UTORONTO.CA | 2016-06-27 21:58:42 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Fixed bug in validator class
+------------------------------------------------------------------------
+r160 | gongyi2@UTORONTO.CA | 2016-06-27 21:35:21 -0400 (Mon, 27 Jun 2016) | 1 line
+
+updated ls.java with imports
+------------------------------------------------------------------------
+r159 | gongyi2@UTORONTO.CA | 2016-06-27 21:33:31 -0400 (Mon, 27 Jun 2016) | 1 line
+
+moved ls into commands
+------------------------------------------------------------------------
+r158 | patelm55@UTORONTO.CA | 2016-06-27 20:54:12 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'still commiting to fix history'
+------------------------------------------------------------------------
+r157 | patelm55@UTORONTO.CA | 2016-06-27 20:53:45 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'commiting to fix history bug'
+------------------------------------------------------------------------
+r156 | shahtirt@UTORONTO.CA | 2016-06-27 20:02:27 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Updated mkdir class
+------------------------------------------------------------------------
+r155 | patelm55@UTORONTO.CA | 2016-06-27 19:31:18 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'fixed huge absolute path error'
+------------------------------------------------------------------------
+r154 | patelm55@UTORONTO.CA | 2016-06-27 19:22:18 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'updated history command after commmit failure'
+------------------------------------------------------------------------
+r153 | patelm55@UTORONTO.CA | 2016-06-27 19:21:25 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'updated pushd command after commmit failure'
+------------------------------------------------------------------------
+r152 | patelm55@UTORONTO.CA | 2016-06-27 19:20:48 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'updated popd command after commmit failure'
+------------------------------------------------------------------------
+r151 | patelm55@UTORONTO.CA | 2016-06-27 19:20:33 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'updated pushd command after SVN failure'
+------------------------------------------------------------------------
+r150 | shahtirt@UTORONTO.CA | 2016-06-27 18:55:28 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Updated mkdir class
+------------------------------------------------------------------------
+r149 | patelm55@UTORONTO.CA | 2016-06-27 18:41:34 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'fixed exit manual'
+------------------------------------------------------------------------
+r148 | chengj38@UTORONTO.CA | 2016-06-27 17:55:21 -0400 (Mon, 27 Jun 2016) | 2 lines
+
+made significant changes to command echo to emcompass the case where the outfile cannot be found
+and a new file need to be created.
+------------------------------------------------------------------------
+r147 | gongyi2@UTORONTO.CA | 2016-06-27 17:52:11 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Minor changes, bug fixes, comments
+------------------------------------------------------------------------
+r146 | patelm55@UTORONTO.CA | 2016-06-27 15:51:51 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'updated Jshell with proper command constructors'
+------------------------------------------------------------------------
+r145 | chengj38@UTORONTO.CA | 2016-06-27 15:50:11 -0400 (Mon, 27 Jun 2016) | 1 line
+
+added nullpointerexception handling for cd
+------------------------------------------------------------------------
+r144 | patelm55@UTORONTO.CA | 2016-06-27 14:39:37 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'commiting JShell with most command constructors written'
+------------------------------------------------------------------------
+r143 | patelm55@UTORONTO.CA | 2016-06-27 14:23:39 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'adding exit command to use for 'man exit''
+------------------------------------------------------------------------
+r142 | patelm55@UTORONTO.CA | 2016-06-27 14:18:32 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'made a stack class to use for push and popd'
+------------------------------------------------------------------------
+r141 | patelm55@UTORONTO.CA | 2016-06-27 14:12:23 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'updated Jshell to account for boundary cases'
+------------------------------------------------------------------------
+r140 | shahtirt@UTORONTO.CA | 2016-06-27 14:12:23 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Modified validator class
+------------------------------------------------------------------------
+r139 | patelm55@UTORONTO.CA | 2016-06-27 13:55:42 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'adding updated history command with javadoc and confirmed command works'
+------------------------------------------------------------------------
+r138 | patelm55@UTORONTO.CA | 2016-06-27 13:42:22 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'commiting popd command class'
+------------------------------------------------------------------------
+r137 | patelm55@UTORONTO.CA | 2016-06-27 13:37:03 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'added conditional if for inputs of length 1,2,..."
+------------------------------------------------------------------------
+r136 | shahtirt@UTORONTO.CA | 2016-06-27 13:35:19 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Modified validator class
+------------------------------------------------------------------------
+r135 | patelm55@UTORONTO.CA | 2016-06-27 13:29:43 -0400 (Mon, 27 Jun 2016) | 1 line
+
+'commiting UI changes'
+------------------------------------------------------------------------
+r134 | shahtirt@UTORONTO.CA | 2016-06-27 13:26:05 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Modified validator class
+------------------------------------------------------------------------
+r133 | shahtirt@UTORONTO.CA | 2016-06-27 13:23:29 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Modified validator class
+------------------------------------------------------------------------
+r132 | shahtirt@UTORONTO.CA | 2016-06-27 13:10:38 -0400 (Mon, 27 Jun 2016) | 1 line
+
+Modified validator class
+------------------------------------------------------------------------
+r131 | shahtirt@UTORONTO.CA | 2016-06-26 23:42:28 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Added last scrum
+------------------------------------------------------------------------
+r130 | gongyi2@UTORONTO.CA | 2016-06-26 23:35:16 -0400 (Sun, 26 Jun 2016) | 1 line
+
+added logs
+------------------------------------------------------------------------
+r129 | patelm55@UTORONTO.CA | 2016-06-26 22:56:39 -0400 (Sun, 26 Jun 2016) | 1 line
+
+'commiting dailyScrum for June 26'
+------------------------------------------------------------------------
+r128 | chengj38@UTORONTO.CA | 2016-06-26 22:54:44 -0400 (Sun, 26 Jun 2016) | 1 line
+
+added scrum meeting for june 26
+------------------------------------------------------------------------
+r127 | shahtirt@UTORONTO.CA | 2016-06-26 22:40:27 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Made changes to validator class
+------------------------------------------------------------------------
+r126 | chengj38@UTORONTO.CA | 2016-06-26 21:39:31 -0400 (Sun, 26 Jun 2016) | 1 line
+
+changed cat.execute to void. prints to console instead of returning string.
+------------------------------------------------------------------------
+r125 | chengj38@UTORONTO.CA | 2016-06-26 21:34:28 -0400 (Sun, 26 Jun 2016) | 1 line
+
+added integration testing for cat.
+------------------------------------------------------------------------
+r124 | chengj38@UTORONTO.CA | 2016-06-26 20:55:29 -0400 (Sun, 26 Jun 2016) | 3 lines
+
+fixed cd, pwd and echo commands.
+removed old unit tests for cd, pwd and echo
+added new integrating tests for cd, pwd and echo.
+------------------------------------------------------------------------
+r123 | patelm55@UTORONTO.CA | 2016-06-26 20:08:04 -0400 (Sun, 26 Jun 2016) | 1 line
+
+'created pushd class command'
+------------------------------------------------------------------------
+r122 | shahtirt@UTORONTO.CA | 2016-06-26 19:34:33 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Modified validator completely- now only checks number of arugments for each command
+------------------------------------------------------------------------
+r121 | patelm55@UTORONTO.CA | 2016-06-26 19:32:26 -0400 (Sun, 26 Jun 2016) | 1 line
+
+'updated Jshell so validator can be tested'
+------------------------------------------------------------------------
+r120 | gongyi2@UTORONTO.CA | 2016-06-26 19:28:27 -0400 (Sun, 26 Jun 2016) | 1 line
+
+bug fixes, minor addition
+------------------------------------------------------------------------
+r119 | shahtirt@UTORONTO.CA | 2016-06-26 19:24:12 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Modified validator completely- now only checks number of arugments for each command
+------------------------------------------------------------------------
+r118 | patelm55@UTORONTO.CA | 2016-06-26 19:18:58 -0400 (Sun, 26 Jun 2016) | 1 line
+
+'added man page comments and fixed implementation'
+------------------------------------------------------------------------
+r117 | shahtirt@UTORONTO.CA | 2016-06-26 19:16:41 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Modified validator completely- now only checks number of arugments for each command
+------------------------------------------------------------------------
+r116 | gongyi2@UTORONTO.CA | 2016-06-26 17:32:01 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Over ride to string for file, minor method changes
+------------------------------------------------------------------------
+r115 | shahtirt@UTORONTO.CA | 2016-06-26 17:03:51 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Added man method to mkdir command
+------------------------------------------------------------------------
+r114 | gongyi2@UTORONTO.CA | 2016-06-26 17:03:40 -0400 (Sun, 26 Jun 2016) | 1 line
+
+minor changes to toString
+------------------------------------------------------------------------
+r113 | patelm55@UTORONTO.CA | 2016-06-26 16:52:19 -0400 (Sun, 26 Jun 2016) | 1 line
+
+'added JavaDoc and comments for history class'
+------------------------------------------------------------------------
+r112 | shahtirt@UTORONTO.CA | 2016-06-26 16:49:19 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Added mkdir command
+------------------------------------------------------------------------
+r111 | shahtirt@UTORONTO.CA | 2016-06-26 16:48:00 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Removed mkdir class
+------------------------------------------------------------------------
+r110 | shahtirt@UTORONTO.CA | 2016-06-26 16:44:00 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Modified mkdir class
+------------------------------------------------------------------------
+r109 | gongyi2@UTORONTO.CA | 2016-06-26 16:42:05 -0400 (Sun, 26 Jun 2016) | 1 line
+
+minor bug fix fileSystem
+------------------------------------------------------------------------
+r108 | patelm55@UTORONTO.CA | 2016-06-26 16:39:51 -0400 (Sun, 26 Jun 2016) | 1 line
+
+'added javaDoc and fixed errors in pwd'
+------------------------------------------------------------------------
+r107 | shahtirt@UTORONTO.CA | 2016-06-26 16:01:44 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Created mkdir class command
+------------------------------------------------------------------------
+r106 | gongyi2@UTORONTO.CA | 2016-06-26 15:14:04 -0400 (Sun, 26 Jun 2016) | 1 line
+
+minor changes
+------------------------------------------------------------------------
+r105 | gongyi2@UTORONTO.CA | 2016-06-26 15:01:27 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Updated code in fileSystem implemented singleton design principle
+------------------------------------------------------------------------
+r104 | gongyi2@UTORONTO.CA | 2016-06-26 14:26:09 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Updated code for Directory and File, implemented internface fileSys
+------------------------------------------------------------------------
+r103 | shahtirt@UTORONTO.CA | 2016-06-26 12:44:49 -0400 (Sun, 26 Jun 2016) | 1 line
+
+Made changes to validator
+------------------------------------------------------------------------
+r102 | patelm55@UTORONTO.CA | 2016-06-26 12:43:05 -0400 (Sun, 26 Jun 2016) | 1 line
+
+'added the man command'
+------------------------------------------------------------------------
+r101 | patelm55@UTORONTO.CA | 2016-06-25 18:07:32 -0400 (Sat, 25 Jun 2016) | 1 line
+
+'updated JShell and creating objects of classes to test'
+------------------------------------------------------------------------
+r100 | patelm55@UTORONTO.CA | 2016-06-25 18:06:45 -0400 (Sat, 25 Jun 2016) | 1 line
+
+'added history command'
+------------------------------------------------------------------------
+r99 | shahtirt@UTORONTO.CA | 2016-06-25 17:41:16 -0400 (Sat, 25 Jun 2016) | 1 line
+
+Modified validator class
+------------------------------------------------------------------------
+r98 | shahtirt@UTORONTO.CA | 2016-06-25 14:46:26 -0400 (Sat, 25 Jun 2016) | 1 line
+
+Updated validator class
+------------------------------------------------------------------------
+r97 | shahtirt@UTORONTO.CA | 2016-06-25 13:59:02 -0400 (Sat, 25 Jun 2016) | 1 line
+
+Added scrumMeeting for 4th sprint.
+------------------------------------------------------------------------
+r96 | chengj38@UTORONTO.CA | 2016-06-24 20:59:21 -0400 (Fri, 24 Jun 2016) | 1 line
+
+finished echo command along with its associated test cases.
+------------------------------------------------------------------------
+r95 | gongyi2@UTORONTO.CA | 2016-06-24 17:53:41 -0400 (Fri, 24 Jun 2016) | 1 line
+
+updated fileSystem codes, unfinished
+------------------------------------------------------------------------
+r94 | chengj38@UTORONTO.CA | 2016-06-24 16:13:52 -0400 (Fri, 24 Jun 2016) | 1 line
+
+completed cd class. added new manual method for every completed class. Added cdTest to test package.
+------------------------------------------------------------------------
+r93 | chengj38@UTORONTO.CA | 2016-06-24 15:26:14 -0400 (Fri, 24 Jun 2016) | 1 line
+
+Changed Cat class to utilize the fileSystem class. Refactored some methods within and added a manual method for returning the manual.
+------------------------------------------------------------------------
+r92 | patelm55@UTORONTO.CA | 2016-06-23 23:51:47 -0400 (Thu, 23 Jun 2016) | 1 line
+
+'scrum for june 23'
+------------------------------------------------------------------------
+r91 | gongyi2@UTORONTO.CA | 2016-06-20 22:55:33 -0400 (Mon, 20 Jun 2016) | 1 line
+
+Modified Directory and File class, added prelimenary fileSystem class
+------------------------------------------------------------------------
+r90 | gongyi2@UTORONTO.CA | 2016-06-20 22:41:56 -0400 (Mon, 20 Jun 2016) | 1 line
+
+added scrum log
+------------------------------------------------------------------------
+r89 | shahtirt@UTORONTO.CA | 2016-06-20 22:41:29 -0400 (Mon, 20 Jun 2016) | 1 line
+
+Added firs scrum of sprint 3.
+------------------------------------------------------------------------
+r88 | patelm55@UTORONTO.CA | 2016-06-20 17:22:59 -0400 (Mon, 20 Jun 2016) | 1 line
+
+'added sprint 3'
+------------------------------------------------------------------------
+r87 | patelm55@UTORONTO.CA | 2016-06-20 16:23:26 -0400 (Mon, 20 Jun 2016) | 2 lines
+
+'added scrum for Jn20'
+
+------------------------------------------------------------------------
+r86 | chengj38@UTORONTO.CA | 2016-06-20 16:23:08 -0400 (Mon, 20 Jun 2016) | 1 line
+
+added scrum meeting for start of sprint 3
+------------------------------------------------------------------------
+r85 | chengj38@UTORONTO.CA | 2016-06-18 15:05:59 -0400 (Sat, 18 Jun 2016) | 1 line
+
+finished pwd.java and its associated test cases.
+------------------------------------------------------------------------
+r84 | chengj38@UTORONTO.CA | 2016-06-18 13:40:10 -0400 (Sat, 18 Jun 2016) | 1 line
+
+finished cat command and the related test cases.
+------------------------------------------------------------------------
+r83 | gongyi2@UTORONTO.CA | 2016-06-18 01:15:58 -0400 (Sat, 18 Jun 2016) | 1 line
+
+Deleted unused method setSelfDir
+------------------------------------------------------------------------
+r82 | patelm55@UTORONTO.CA | 2016-06-18 01:07:49 -0400 (Sat, 18 Jun 2016) | 2 lines
+
+'commiting scrum for june 17'
+
+------------------------------------------------------------------------
+r81 | gongyi2@UTORONTO.CA | 2016-06-18 01:04:05 -0400 (Sat, 18 Jun 2016) | 1 line
+
+Added comments, method headers, fixed minor typos
+------------------------------------------------------------------------
+r80 | gongyi2@UTORONTO.CA | 2016-06-18 00:51:07 -0400 (Sat, 18 Jun 2016) | 1 line
+
+Made changes to Directory class, rewrote toString using newly added class getAllContents
+------------------------------------------------------------------------
+r79 | gongyi2@UTORONTO.CA | 2016-06-18 00:31:29 -0400 (Sat, 18 Jun 2016) | 1 line
+
+Added finished code for File and Directory
+------------------------------------------------------------------------
+r78 | gongyi2@UTORONTO.CA | 2016-06-18 00:27:15 -0400 (Sat, 18 Jun 2016) | 1 line
+
+Added new meeting log, fixed typo in previous log
+------------------------------------------------------------------------
+r77 | shahtirt@UTORONTO.CA | 2016-06-18 00:15:13 -0400 (Sat, 18 Jun 2016) | 1 line
+
+Added first scrum for sprint2
+------------------------------------------------------------------------
+r76 | patelm55@UTORONTO.CA | 2016-06-17 17:31:59 -0400 (Fri, 17 Jun 2016) | 1 line
+
+'added pop and push d'
+------------------------------------------------------------------------
+r75 | chengj38@UTORONTO.CA | 2016-06-16 09:01:25 -0400 (Thu, 16 Jun 2016) | 1 line
+
+fixed some errors in cat.java and mockDirectory.java
+------------------------------------------------------------------------
+r74 | chengj38@UTORONTO.CA | 2016-06-16 08:11:40 -0400 (Thu, 16 Jun 2016) | 2 lines
+
+finished getCat in cat.java should return a string that prints out the contents of the files
+given a list of directory paths.
+------------------------------------------------------------------------
+r73 | chengj38@UTORONTO.CA | 2016-06-15 20:52:52 -0400 (Wed, 15 Jun 2016) | 1 line
+
+added mockDirectory to simulate the functions of directory for later cmds
+------------------------------------------------------------------------
+r71 | chengj38@UTORONTO.CA | 2016-06-15 20:47:59 -0400 (Wed, 15 Jun 2016) | 1 line
+
+added commandSuper as superclass for all shell commands
+------------------------------------------------------------------------
+r69 | patelm55@UTORONTO.CA | 2016-06-15 17:37:08 -0400 (Wed, 15 Jun 2016) | 1 line
+
+'added implemenation of commands in main funct'
+------------------------------------------------------------------------
+r68 | shahtirt@UTORONTO.CA | 2016-06-15 17:30:36 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Modified Validator class
+------------------------------------------------------------------------
+r67 | patelm55@UTORONTO.CA | 2016-06-15 17:26:10 -0400 (Wed, 15 Jun 2016) | 1 line
+
+'made a looping reader for input'
+------------------------------------------------------------------------
+r66 | patelm55@UTORONTO.CA | 2016-06-15 17:16:12 -0400 (Wed, 15 Jun 2016) | 1 line
+
+'changed tasks assigned'
+------------------------------------------------------------------------
+r65 | patelm55@UTORONTO.CA | 2016-06-15 17:15:19 -0400 (Wed, 15 Jun 2016) | 1 line
+
+'fixed a spelling mistake in tasks'
+------------------------------------------------------------------------
+r64 | patelm55@UTORONTO.CA | 2016-06-15 17:14:49 -0400 (Wed, 15 Jun 2016) | 1 line
+
+'added changes to sprint and product backlog'
+------------------------------------------------------------------------
+r63 | gongyi2@UTORONTO.CA | 2016-06-15 16:58:51 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Changed so that File methods uses new line
+------------------------------------------------------------------------
+r62 | gongyi2@UTORONTO.CA | 2016-06-15 16:41:15 -0400 (Wed, 15 Jun 2016) | 1 line
+
+changed access modifiers to private
+------------------------------------------------------------------------
+r61 | gongyi2@UTORONTO.CA | 2016-06-15 16:22:26 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Added comments for File class
+------------------------------------------------------------------------
+r60 | gongyi2@UTORONTO.CA | 2016-06-15 16:17:06 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Added file class
+------------------------------------------------------------------------
+r59 | patelm55@UTORONTO.CA | 2016-06-15 16:16:18 -0400 (Wed, 15 Jun 2016) | 1 line
+
+'added new Crc cards as per design'
+------------------------------------------------------------------------
+r58 | shahtirt@UTORONTO.CA | 2016-06-15 15:54:48 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Modified code in the validator class
+------------------------------------------------------------------------
+r57 | gongyi2@UTORONTO.CA | 2016-06-15 15:52:44 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Added stack class
+------------------------------------------------------------------------
+r56 | gongyi2@UTORONTO.CA | 2016-06-15 15:48:14 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Removed cp, get and move
+------------------------------------------------------------------------
+r55 | gongyi2@UTORONTO.CA | 2016-06-15 15:47:38 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Deleted old crcCards
+------------------------------------------------------------------------
+r54 | gongyi2@UTORONTO.CA | 2016-06-15 15:45:28 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Deleted fileSystem class
+------------------------------------------------------------------------
+r53 | chengj38@UTORONTO.CA | 2016-06-15 11:57:57 -0400 (Wed, 15 Jun 2016) | 1 line
+
+changed tests to fit changes with fileSystem
+------------------------------------------------------------------------
+r52 | chengj38@UTORONTO.CA | 2016-06-15 11:57:30 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Replaced the implementation of fileSystem from JTree to Arraylists
+------------------------------------------------------------------------
+r51 | gongyi2@UTORONTO.CA | 2016-06-15 01:24:02 -0400 (Wed, 15 Jun 2016) | 1 line
+
+Commited scrum log for June 14th
+------------------------------------------------------------------------
+r50 | patelm55@UTORONTO.CA | 2016-06-14 23:22:26 -0400 (Tue, 14 Jun 2016) | 1 line
+
+'fixed a spelling mistake'
+------------------------------------------------------------------------
+r49 | patelm55@UTORONTO.CA | 2016-06-14 23:21:38 -0400 (Tue, 14 Jun 2016) | 1 line
+
+'added a user story'
+------------------------------------------------------------------------
+r48 | patelm55@UTORONTO.CA | 2016-06-14 23:20:51 -0400 (Tue, 14 Jun 2016) | 1 line
+
+'finished sprint 2'
+------------------------------------------------------------------------
+r47 | patelm55@UTORONTO.CA | 2016-06-14 23:12:25 -0400 (Tue, 14 Jun 2016) | 1 line
+
+'added sprint 2 design'
+------------------------------------------------------------------------
+r46 | shahtirt@UTORONTO.CA | 2016-06-14 23:11:47 -0400 (Tue, 14 Jun 2016) | 1 line
+
+Added scrum#3
+------------------------------------------------------------------------
+r45 | patelm55@UTORONTO.CA | 2016-06-14 22:40:35 -0400 (Tue, 14 Jun 2016) | 1 line
+
+'daily scrum for June 14 A2-1'
+------------------------------------------------------------------------
+r44 | patelm55@UTORONTO.CA | 2016-06-14 22:25:15 -0400 (Tue, 14 Jun 2016) | 1 line
+
+'added crcCard design'
+------------------------------------------------------------------------
+r43 | patelm55@UTORONTO.CA | 2016-06-14 01:27:58 -0400 (Tue, 14 Jun 2016) | 1 line
+
+'changed implementation of input reader'
+------------------------------------------------------------------------
+r42 | shahtirt@UTORONTO.CA | 2016-06-13 18:27:24 -0400 (Mon, 13 Jun 2016) | 1 line
+
+Created and worked on Validator class
+------------------------------------------------------------------------
+r41 | patelm55@UTORONTO.CA | 2016-06-13 17:15:05 -0400 (Mon, 13 Jun 2016) | 1 line
+
+'changed JShell'
+------------------------------------------------------------------------
+r40 | chengj38@UTORONTO.CA | 2016-06-13 14:56:42 -0400 (Mon, 13 Jun 2016) | 1 line
+
+fixed constructor for fileSystem
+------------------------------------------------------------------------
+r39 | patelm55@UTORONTO.CA | 2016-06-13 14:51:53 -0400 (Mon, 13 Jun 2016) | 1 line
+
+'added a scanner for input'
+------------------------------------------------------------------------
+r38 | chengj38@UTORONTO.CA | 2016-06-13 13:06:55 -0400 (Mon, 13 Jun 2016) | 3 lines
+
+added daily Scrum for June 12
+
+added placeholder push/pop method for filesystem
+------------------------------------------------------------------------
+r37 | shahtirt@UTORONTO.CA | 2016-06-12 23:55:23 -0400 (Sun, 12 Jun 2016) | 1 line
+
+Added second scrum
+------------------------------------------------------------------------
+r36 | shahtirt@UTORONTO.CA | 2016-06-12 23:55:00 -0400 (Sun, 12 Jun 2016) | 1 line
+
+Added second scrum
+------------------------------------------------------------------------
+r35 | gongyi2@UTORONTO.CA | 2016-06-12 23:14:31 -0400 (Sun, 12 Jun 2016) | 1 line
+
+added new log, fixed typo in old one
+------------------------------------------------------------------------
+r34 | patelm55@UTORONTO.CA | 2016-06-12 22:53:01 -0400 (Sun, 12 Jun 2016) | 1 line
+
+'new scrum update for june 11'
+------------------------------------------------------------------------
+r33 | chengj38@UTORONTO.CA | 2016-06-12 17:27:53 -0400 (Sun, 12 Jun 2016) | 5 lines
+
+- added new package to store fileSystem class. Feel free to move other related classes in there if you wish.
+
+- added fileSystemTest to test package
+
+- move fileSystem.java from default package to fileSystem
+------------------------------------------------------------------------
+r32 | chengj38@UTORONTO.CA | 2016-06-09 14:05:43 -0400 (Thu, 09 Jun 2016) | 1 line
+
+created fileSystem.java and imported JTree and DefaultMutableTreeNode for use in the fileSystem class.
+------------------------------------------------------------------------
+r31 | gongyi2@UTORONTO.CA | 2016-06-08 18:08:52 -0400 (Wed, 08 Jun 2016) | 1 line
+
+fixed typo in name
+------------------------------------------------------------------------
+r30 | gongyi2@UTORONTO.CA | 2016-06-08 18:07:43 -0400 (Wed, 08 Jun 2016) | 1 line
+
+added scrum meeting Gong
+------------------------------------------------------------------------
+r29 | shahtirt@UTORONTO.CA | 2016-06-08 18:07:35 -0400 (Wed, 08 Jun 2016) | 1 line
+
+Added my first scrum meeting.
+------------------------------------------------------------------------
+r28 | patelm55@UTORONTO.CA | 2016-06-08 18:07:25 -0400 (Wed, 08 Jun 2016) | 1 line
+
+'updated scrum stuff from 1st meeting'
+------------------------------------------------------------------------
+r27 | chengj38@UTORONTO.CA | 2016-06-08 18:03:50 -0400 (Wed, 08 Jun 2016) | 1 line
+
+added personal scrum meeting for sprint 1
+------------------------------------------------------------------------
+r26 | chengj38@UTORONTO.CA | 2016-06-08 17:57:20 -0400 (Wed, 08 Jun 2016) | 1 line
+
+divided tasks for sprint 1
+------------------------------------------------------------------------
+r25 | patelm55@UTORONTO.CA | 2016-06-08 17:54:06 -0400 (Wed, 08 Jun 2016) | 1 line
+
+'added sprint1 tasks'
+------------------------------------------------------------------------
+r24 | gongyi2@UTORONTO.CA | 2016-06-08 17:51:29 -0400 (Wed, 08 Jun 2016) | 1 line
+
+deleted IDE files
+------------------------------------------------------------------------
+r23 | patelm55@UTORONTO.CA | 2016-06-08 17:43:21 -0400 (Wed, 08 Jun 2016) | 1 line
+
+'changed sprint 1'
+------------------------------------------------------------------------
+r22 | patelm55@UTORONTO.CA | 2016-06-07 21:20:37 -0400 (Tue, 07 Jun 2016) | 1 line
+
+'started on the first sprint'
+------------------------------------------------------------------------
+r21 | chengj38@UTORONTO.CA | 2016-06-07 20:09:52 -0400 (Tue, 07 Jun 2016) | 1 line
+
+added Jerry/Nick's group's crcCards
+------------------------------------------------------------------------
+r20 | patelm55@UTORONTO.CA | 2016-06-07 20:07:07 -0400 (Tue, 07 Jun 2016) | 1 line
+
+'adding our crcCards for group to see'
+------------------------------------------------------------------------
+r19 | gongyi2@UTORONTO.CA | 2016-06-07 19:57:03 -0400 (Tue, 07 Jun 2016) | 1 line
+
+changed time required for stories 14, 13
+------------------------------------------------------------------------
+r18 | chengj38@UTORONTO.CA | 2016-06-07 19:55:07 -0400 (Tue, 07 Jun 2016) | 1 line
+
+added time estimates for stories from 12-18
+------------------------------------------------------------------------
+r17 | chengj38@UTORONTO.CA | 2016-06-07 19:43:43 -0400 (Tue, 07 Jun 2016) | 1 line
+
+added time estimates for stories 5-11
+------------------------------------------------------------------------
+r16 | chengj38@UTORONTO.CA | 2016-06-07 19:37:46 -0400 (Tue, 07 Jun 2016) | 1 line
+
+Numbered the user stories. added time estimate for stories 3 and 4.
+------------------------------------------------------------------------
+r15 | chengj38@UTORONTO.CA | 2016-06-07 19:29:48 -0400 (Tue, 07 Jun 2016) | 1 line
+
+added time estimates for tasks on lines 1 and 2 in product backlog.
+------------------------------------------------------------------------
+r14 | gongyi2@UTORONTO.CA | 2016-06-07 19:22:57 -0400 (Tue, 07 Jun 2016) | 1 line
+
+added story to productBackLog
+------------------------------------------------------------------------
+r13 | gongyi2@UTORONTO.CA | 2016-06-07 19:18:13 -0400 (Tue, 07 Jun 2016) | 1 line
+
+actually moved readMeAssignment2A.txt file, last commit added it to revision control
+------------------------------------------------------------------------
+r12 | gongyi2@UTORONTO.CA | 2016-06-07 19:12:55 -0400 (Tue, 07 Jun 2016) | 1 line
+
+moved readmeassignment to correct folder
+------------------------------------------------------------------------
+r11 | gongyi2@UTORONTO.CA | 2016-06-07 19:11:15 -0400 (Tue, 07 Jun 2016) | 1 line
+
+moved productbacklog to correct folder
+------------------------------------------------------------------------
+r10 | chengj38@UTORONTO.CA | 2016-06-07 19:03:31 -0400 (Tue, 07 Jun 2016) | 1 line
+
+move productbacklog@a.txt to appropriate folder in repo
+------------------------------------------------------------------------
+r7 | attarwal@UTORONTO.CA | 2016-06-05 18:57:32 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r6 | attarwal@UTORONTO.CA | 2016-06-05 18:57:31 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r5 | attarwal@UTORONTO.CA | 2016-06-05 18:57:31 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r4 | attarwal@UTORONTO.CA | 2016-06-05 18:57:30 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r3 | attarwal@UTORONTO.CA | 2016-06-05 18:57:29 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r2 | attarwal@UTORONTO.CA | 2016-06-05 18:57:29 -0400 (Sun, 05 Jun 2016) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r1 | markus | 2016-06-05 18:21:23 -0400 (Sun, 05 Jun 2016) | 1 line
+
+
+------------------------------------------------------------------------
+
+
+
+Part 3) +++Work Distribution of Team Members+++
++++ON ALL SOURCE FILES+++
+  17 attarwal@U
+ 725 chengj38@U
+ 763 gongyi2@UT
+ 473 patelm55@U
+ 445 shahtirt@U
++++ON CRC CARDS+++
+   9 attarwal@U
+  11 gongyi2@UT
+ 173 patelm55@U
++++ON DAILYSCRUMMEETINGS+++
+  33 attarwal@U
+  37 chengj38@U
+  63 gongyi2@UT
+  90 patelm55@U
+ 102 shahtirt@U
++++ON PRODUCT BACKLOG +++
+  11 attarwal@U
+  16 chengj38@U
+   1 gongyi2@UT
+   3 patelm55@U
++++ON SPRINTS+++
+  68 attarwal@U
+   4 chengj38@U
+ 120 patelm55@U
+3595
+Part 4) SVN Commits
+
+
+On Sprints
+   1  attarwal@UTORONTO.CA 
+   1  chengj38@UTORONTO.CA 
+   9  patelm55@UTORONTO.CA 
+
+
+On CRC Cards
+   1  attarwal@UTORONTO.CA 
+   3  gongyi2@UTORONTO.CA 
+   3  patelm55@UTORONTO.CA 
+
+
+On DailyScrumMeetings
+   1  attarwal@UTORONTO.CA 
+   4  chengj38@UTORONTO.CA 
+   7  gongyi2@UTORONTO.CA 
+   8  patelm55@UTORONTO.CA 
+   8  shahtirt@UTORONTO.CA 
+
+
+On ProductBacklog
+   1  attarwal@UTORONTO.CA 
+   5  chengj38@UTORONTO.CA 
+   4  gongyi2@UTORONTO.CA 
+   3  patelm55@UTORONTO.CA 
+
+
+On source
+   1  attarwal@UTORONTO.CA 
+  23  chengj38@UTORONTO.CA 
+  27  gongyi2@UTORONTO.CA 
+  40  patelm55@UTORONTO.CA 
+  27  shahtirt@UTORONTO.CA 
